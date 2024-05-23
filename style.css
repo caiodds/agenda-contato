@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+input{
+    border-radius: 5px;
+    text-decoration: none;
+}
